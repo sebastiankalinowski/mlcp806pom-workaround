@@ -5,7 +5,7 @@
     <artifactId>mlcp806pom-workaround</artifactId>
     <version>1.0-Example</version>
     <packaging>jar</packaging>
-        <repositories>
+    <repositories>
         <repository>
           <id>MarkLogic-releases</id>
           <name>MarkLogic Releases</name>
